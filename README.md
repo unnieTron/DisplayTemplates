@@ -1,5 +1,5 @@
 
-<b>Custom Date range refiner</b>
+<b>Custom Date range refiner</b><br/>
 First of all you need to have the below 3 files ready to use the Bootstrap date picker control.
 <ul>
 <li>
