@@ -13,6 +13,7 @@ See the other prerequisite files needed for Bootstrap date picker: https://eonas
 
 Once you have all the prerequisite  files uploaded to SharePoint style library. You can open the site in SP Designer. Go to <b>_catalogs</b>-><b>master page</b>-><b>DisplayTemplates</b>-><b>Filters</b>. Upload the <b>Filter_DateTimeRange.html</b> here.
 
+See this <a href="http://unnieayilliath.com/2015/07/08/custom-date-time-refiner-template-for-sharepoint-2013/" target="_blank">blog</a> to see the final ouput and usage.
 
 
 
